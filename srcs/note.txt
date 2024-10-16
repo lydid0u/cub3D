@@ -1,0 +1,10 @@
+// verifier les images quelles existent bien
+    si elles existent pas
+    free les variables de la mlx
+
+// verifier que mlx ne foire pas:
+    donc proteger:
+    mlx_init()
+    mlx_newwindow()
+
+// verifier aucun leaks sur ECHAP et le bouton dla croix

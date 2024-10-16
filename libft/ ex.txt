@@ -1,0 +1,14 @@
+1234
+
+
+1
+
+235
+
+
+
+buffer = 6
+getnextline(ex.txt)
+getnextline(ex.txt)
+getnextline(ex.txt)
+

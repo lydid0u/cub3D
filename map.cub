@@ -1,0 +1,20 @@
+WE ./textures/wood.xpm
+NO ./textures/purplestone.xpm
+SO ./textures/bluestone.xpm
+EA ./textures/redbrick.xpm
+
+F 24,100,25
+C 12,021,0
+
+
+111
+1001
+101111
+101111
+101111
+1000001
+1000001
+101N101
+1001001
+10000011
+11111111
